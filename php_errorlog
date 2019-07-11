@@ -1,0 +1,1 @@
+[02-Jul-2019 08:22:35 CST6CDT] PHP Fatal error:  require_once(): Failed opening required 'classes/auth/class.OAuth.php' (include_path='.:/usr/local/php71/pear') in /home/softwa61/public_html/developer/developer.softwareske.com/mpesa/process.php on line 124
